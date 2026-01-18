@@ -1,7 +1,4 @@
-
-
-
-
+// URL: https://github.com/Jennireyes1010/cs81-module4a-reviewtracker.git
 
 // Weekly reading log
 // reading log is an array of objects, each representing a day's reading activity
@@ -101,4 +98,5 @@ function isReadingTimeIncreasing(log) {
   return true; 
 }
 // Example usage of the new function 
+
 console.log("Is reading time increasing?", isReadingTimeIncreasing(readingLog));
